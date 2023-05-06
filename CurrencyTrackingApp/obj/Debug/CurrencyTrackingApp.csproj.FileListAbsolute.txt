@@ -1,0 +1,11 @@
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\CurrencyTrackingApp\CurrencyTrackingApp\obj\Debug\CurrencyTrackingApp.csproj.AssemblyReference.cache
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\CurrencyTrackingApp\CurrencyTrackingApp\obj\Debug\CurrencyTrackingApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\CurrencyTrackingApp\CurrencyTrackingApp\obj\Debug\CurrencyTrackingApp.Properties.Resources.resources
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\CurrencyTrackingApp\CurrencyTrackingApp\obj\Debug\CurrencyTrackingApp.RateList.resources
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\CurrencyTrackingApp\CurrencyTrackingApp\obj\Debug\CurrencyTrackingApp.csproj.GenerateResource.cache
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\CurrencyTrackingApp\CurrencyTrackingApp\obj\Debug\CurrencyTrackingApp.csproj.CoreCompileInputs.cache
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\CurrencyTrackingApp\CurrencyTrackingApp\bin\Debug\CurrencyTrackingApp.exe.config
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\CurrencyTrackingApp\CurrencyTrackingApp\bin\Debug\CurrencyTrackingApp.exe
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\CurrencyTrackingApp\CurrencyTrackingApp\bin\Debug\CurrencyTrackingApp.pdb
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\CurrencyTrackingApp\CurrencyTrackingApp\obj\Debug\CurrencyTrackingApp.exe
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\CurrencyTrackingApp\CurrencyTrackingApp\obj\Debug\CurrencyTrackingApp.pdb
